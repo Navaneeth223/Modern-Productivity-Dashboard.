@@ -1,0 +1,20 @@
+.gold-btn{
+    background:linear-gradient(135deg,#FFD700,#C9A227);
+    color:#111;
+    padding:15px 30px;
+    border-radius:50px;
+}
+
+.gradient-1{
+    background:linear-gradient(
+      135deg,
+      #667eea,
+      #764ba2
+    );
+}
+
+.border-glow{
+    border:2px solid transparent;
+    animation:borderGlow 3s infinite;
+}
+
